@@ -1,0 +1,13 @@
+
+.pagination{
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+}
+a{
+ padding: 5px;
+ cursor: pointer;
+}
+Button{
+ width: 50px;
+}

@@ -1,0 +1,40 @@
+
+.info{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: #edf5fa;
+    padding: 50px;
+    margin: 50px;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: #edf5fa;
+    padding: 20px;
+}
+
+.boxes{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-evenly;
+    align-items:center;
+
+}
+
+
+
+.textFields{
+    width: 280px;
+    height:60px;
+    z-index: 0;
+
+
+}
+.btn{
+    margin-top: 250px;
+    height:55px;
+    width: 290px;
+}
