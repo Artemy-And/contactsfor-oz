@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contactsfor-oz/static/css/main.641464f4.chunk.css",
+    "main.js": "/contactsfor-oz/static/js/main.2b316752.chunk.js",
+    "main.js.map": "/contactsfor-oz/static/js/main.2b316752.chunk.js.map",
+    "runtime-main.js": "/contactsfor-oz/static/js/runtime-main.b6939fd0.js",
+    "runtime-main.js.map": "/contactsfor-oz/static/js/runtime-main.b6939fd0.js.map",
+    "static/js/2.e16a1b74.chunk.js": "/contactsfor-oz/static/js/2.e16a1b74.chunk.js",
+    "static/js/2.e16a1b74.chunk.js.map": "/contactsfor-oz/static/js/2.e16a1b74.chunk.js.map",
+    "static/js/3.ec79f717.chunk.js": "/contactsfor-oz/static/js/3.ec79f717.chunk.js",
+    "static/js/3.ec79f717.chunk.js.map": "/contactsfor-oz/static/js/3.ec79f717.chunk.js.map",
+    "index.html": "/contactsfor-oz/index.html",
+    "static/css/main.641464f4.chunk.css.map": "/contactsfor-oz/static/css/main.641464f4.chunk.css.map",
+    "static/js/2.e16a1b74.chunk.js.LICENSE.txt": "/contactsfor-oz/static/js/2.e16a1b74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6939fd0.js",
+    "static/js/2.e16a1b74.chunk.js",
+    "static/css/main.641464f4.chunk.css",
+    "static/js/main.2b316752.chunk.js"
+  ]
+}
